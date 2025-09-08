@@ -34,8 +34,8 @@
 
 <h2>✨ Um pouco sobre mim</h2>
 <ul>
-  <li>🎓 Estudando desenvolvimento full stack</li>
-  <li>💼 Atualmente desenvolvendo projetos com Angular e Spring Boot</li>
+  <li>🎓 Estudando desenvolvimento Back-End</li>
+  <li>💼 Atualmente desenvolvendo projetos com Java e Spring Boot</li>
   <li>📚 Sempre aprendendo algo novo sobre programação e tecnologia</li>
 </ul>
 
