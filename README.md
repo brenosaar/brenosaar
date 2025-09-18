@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | Java | Spring Boot | Angular | Explorador de tecnologias 🚀</b>
+  <b>Desenvolvedor Back End | Java | Spring Boot | Angular | Explorador de tecnologias 🚀</b>
 </p>
 
 <p align="center">
